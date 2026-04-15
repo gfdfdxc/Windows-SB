@@ -150,6 +150,6 @@ If DownloadFile(sSourceUrl, sLocalFile) Then
 End Sub
 
 Private Sub Command3_Click()
-Shell "1.exe"
+Shell "WindowsSB1.exe"
 End Sub
 
